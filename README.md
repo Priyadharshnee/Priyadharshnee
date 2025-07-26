@@ -17,9 +17,9 @@
 - [x] Python Mastery
 - [x] SQL Practice (LeetCode)
 - [x] Git + GitHub Projects
-- [ ] Data Engineering Project
-- [ ] Java & DSA for SDE Roles
-- [ ] Personal Portfolio Websites (SDE & Data Engineer)
+- [x] Data Engineering Project
+- [x] Java & DSA for SDE Roles
+- [x] Personal Portfolio Websites (SDE & Data Engineer)
 
 ---
 
