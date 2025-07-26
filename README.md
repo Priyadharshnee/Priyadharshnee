@@ -61,9 +61,5 @@
   - [LeetCode 🧩](https://leetcode.com/u/priyadharshneeraghu/)
   - [HackerRank 💻](https://www.hackerrank.com/profile/priyadharshneer1)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Priyadharshnee&theme=react-dark" />
-</p>
-
 
 > 🚀 Let’s connect and grow together on [LinkedIn](https://www.linkedin.com/in/priyadharshnee-r-4ba334256/)
