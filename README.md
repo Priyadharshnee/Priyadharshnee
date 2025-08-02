@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyadharshnee</h1>
-<h3 align="center">Aspiring Data Engineer | B.Tech IT @ SRM | Fast Learner | Future SDE 🔥</h3>
+<h3 align="center">Aspiring Data Engineer | Future SDE 🔥</h3>
 
 ---
 
